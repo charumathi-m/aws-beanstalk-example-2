@@ -53,7 +53,7 @@
 					<execution>
 						<id>war-exploded</id>
 						<configuration>
-							<webappDirectory>target/deploy</webappDirectory>
+							<webappDirectory>target/aws-elastic-beanstalk-example-2-0.0.1-SNAPSHOT</webappDirectory>
 							<archiveClasses>true</archiveClasses>
 						</configuration>
 						<phase>prepare-package</phase>
